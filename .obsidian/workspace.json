@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "决策日志/2026-04-30-业务线现状.md",
+                "file": "sync-test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-30-业务线现状"
+              "title": "sync-test"
             }
           }
         ]
@@ -170,6 +170,8 @@
   },
   "active": "d4c9166fa31c8658",
   "lastOpenFiles": [
+    "决策日志/2026-04-30-业务线现状.md",
+    "sync-test.md",
     "test.md",
     "api-test.md",
     "api-script-test.md",
@@ -181,7 +183,6 @@
     "IP打造计划/个人ip打造.md",
     "数字人相关/销售话术.md",
     "数字人相关/微信小程序资料.md",
-    "决策日志/2026-04-30-业务线现状.md",
     "决策日志/决策日志模板.md",
     "决策日志",
     "数字人相关/产品定价.md",
