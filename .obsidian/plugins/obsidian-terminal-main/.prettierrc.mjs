@@ -1,4 +1,0 @@
-/**
- * Prettier configuration.
- */
-export default {};
