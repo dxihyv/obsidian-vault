@@ -15,35 +15,13 @@
   "pinNewInstance": true,
   "preferredRenderer": "webgl",
   "profiles": {
-    "darwinExternalDefault": {
-      "args": [
-        "\"$PWD\""
-      ],
-      "executable": "/bin/zsh",
-      "followTheme": true,
-      "name": "我的终端",
-      "platforms": {
-        "darwin": true
-      },
-      "restoreHistory": false,
-      "rightClickAction": "copyPaste",
-      "successExitCodes": [
-        "0",
-        "SIGINT",
-        "SIGTERM"
-      ],
-      "terminalOptions": {
-        "documentOverride": null
-      },
-      "type": "external"
-    },
     "darwinIntegratedDefault": {
       "args": [
         "--login"
       ],
       "executable": "/bin/zsh",
       "followTheme": true,
-      "name": "",
+      "name": "我的终端",
       "platforms": {
         "darwin": true
       },

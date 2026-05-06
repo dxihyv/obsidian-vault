@@ -1,6 +1,6 @@
 [
-  "obsidian-pandoc",
   "obsidian-git",
-  "obsidian42-brat",
-  "terminal"
+  "terminal",
+  "obsidian-pandoc",
+  "obsidian42-brat"
 ]
