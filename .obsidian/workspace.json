@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "531c40426371bc9f",
+        "id": "4b7544efee7511b5",
         "type": "tabs",
         "children": [
           {
-            "id": "d4c9166fa31c8658",
+            "id": "d97cfc6d97dff63c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "新项目启动检查.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "新项目启动检查"
+              "title": "新标签页"
             }
           }
         ]
@@ -176,16 +172,17 @@
       "templates:插入模板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "d4c9166fa31c8658",
+  "active": "d97cfc6d97dff63c",
   "lastOpenFiles": [
+    "新项目启动检查.md",
     "Micro-SaaS产品调研.md",
     "决策日志/决策日志模板.md",
     "同步测试.md",
     "决策日志/2026-04-30-业务线现状.md",
-    "新项目启动检查.md",
     "量化部/止损规则.md",
     "conflict-files-obsidian-git.md",
     "skill/SKILL-1.md",
