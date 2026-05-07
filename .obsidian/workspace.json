@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "决策日志/决策日志模板.md",
+                "file": "决策日志模板.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,6 +185,8 @@
   },
   "active": "39f6927960931fd9",
   "lastOpenFiles": [
+    "决策日志/决策日志模板.md",
+    "决策日志模板.md",
     "决策日志/新项目启动检查.md",
     "决策日志/Micro-SaaS产品调研.md",
     "新项目启动检查.md",
@@ -205,7 +207,6 @@
     "决策日志/决策日志/2026-04-30-业务线现状.md",
     "决策日志/决策日志",
     "决策日志/2026-05-07-模拟盘重建与报告格式统一.md",
-    "决策日志/决策日志模板.md",
     "量化部/止损规则.md",
     "IP打造计划/个人ip打造.md",
     "测试同步.md",
@@ -214,7 +215,6 @@
     "conflict-files-obsidian-git.md",
     "skill/SKILL-1.md",
     "skill/report-template.md",
-    "文件.md",
     "量化部",
     "数字人",
     "宣传片",
