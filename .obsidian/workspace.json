@@ -11,14 +11,10 @@
             "id": "39f6927960931fd9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "珠海万达商管宣传片.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "珠海万达商管宣传片"
+              "title": "新标签页"
             }
           }
         ]
@@ -183,7 +179,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "39f6927960931fd9",
+  "active": "6446b1619af46fc0",
   "lastOpenFiles": [
     "珠海万达商管宣传片方案_V1.2.md",
     "珠海万达商管宣传片.md",
