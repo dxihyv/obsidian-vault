@@ -4,24 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "08c63f28189c541b",
-        "type": "tabs",
+        "id": "ddce05bdf5c3c230",
+        "type": "split",
         "children": [
           {
-            "id": "39f6927960931fd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Micro-SaaS产品调研.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Micro-SaaS产品调研"
-            }
+            "id": "08c63f28189c541b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "39f6927960931fd9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Micro-SaaS产品调研.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Micro-SaaS产品调研"
+                }
+              }
+            ]
+          },
+          {
+            "id": "573b08845fbd9db4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "04123137394ba457",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/victor/Documents/Obsidian Vault",
+                      "focus": false,
+                      "profile": {
+                        "args": [
+                          "--login"
+                        ],
+                        "executable": "/bin/zsh",
+                        "followTheme": true,
+                        "name": "我的终端",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "终端：✳ Claude Code"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -183,7 +238,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "39f6927960931fd9",
+  "active": "04123137394ba457",
   "lastOpenFiles": [
     "Micro-SaaS产品调研.md",
     "量化部/test_sync.md",
