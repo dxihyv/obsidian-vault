@@ -4,24 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "08c63f28189c541b",
-        "type": "tabs",
+        "id": "fc160311c23fbc3c",
+        "type": "split",
         "children": [
           {
-            "id": "39f6927960931fd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "决策日志/2026-05-14-策略优化与数据源修复.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-05-14-策略优化与数据源修复"
-            }
+            "id": "08c63f28189c541b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "39f6927960931fd9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "决策日志/2026-05-14-策略优化与数据源修复.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2026-05-14-策略优化与数据源修复"
+                }
+              }
+            ]
+          },
+          {
+            "id": "fada2c2cede4b831",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4d301136b885e8d9",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/victor/Documents/Obsidian Vault",
+                      "focus": false,
+                      "profile": {
+                        "args": [
+                          "--login"
+                        ],
+                        "executable": "/bin/zsh",
+                        "followTheme": true,
+                        "name": "我的终端",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "终端：✳ Claude Code"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -183,10 +238,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "39f6927960931fd9",
+  "active": "4d301136b885e8d9",
   "lastOpenFiles": [
-    "决策日志/2026-05-07-模拟盘重建与报告格式统一.md",
     "决策日志/2026-05-14-策略优化与数据源修复.md",
+    "决策日志/2026-05-07-模拟盘重建与报告格式统一.md",
     "量化部/止损规则.md",
     "决策日志模板.md",
     "决策日志/2026-04-30-业务线现状.md",
